@@ -1,0 +1,17 @@
+{
+  "name": "jumbletoe",
+  "version": "1.0.0",
+  "description": "game of tic tac toe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Avinash",
+  "license": "GNU",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
+}
